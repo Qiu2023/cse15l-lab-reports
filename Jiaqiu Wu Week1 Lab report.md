@@ -1,7 +1,7 @@
 ## Jiaqiu Wu Lab report1
 # Remote Access - how to log into a course-specific account on ieng6
 
-###STEP 1: Installing VScode\
+### STEP 1: Installing VScode\
 Download and install VScode for Macs or Windows on your computer.\
 When installation completes, open VScode, and you will see a window like this:
 ![image](Figure1.png)
