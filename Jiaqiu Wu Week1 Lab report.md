@@ -22,5 +22,8 @@ STEP 3: Trying Some Commands\
 Congratulations! Your terminal is now remotely connected to a computer in the CSE basement. You can try to run some commands below, and these commands will also run on that computer.
 - `cd ~`
 - `cd`
+- `ls -lat`
+- `ls -a`
+- `ls <directory>` where ``
 ![image](Figure5.png)
 
