@@ -1,7 +1,7 @@
 ## Jiaqiu Wu Lab report1
 # Remote Access - how to log into a course-specific account on ieng6
 
-STEP 1: Installing VScode\
+###STEP 1: Installing VScode\
 Download and install VScode for Macs or Windows on your computer.\
 When installation completes, open VScode, and you will see a window like this:
 ![image](Figure1.png)
@@ -24,6 +24,8 @@ Congratulations! Your terminal is now remotely connected to a computer in the CS
 - `cd`
 - `ls -lat`
 - `ls -a`
-- `ls <directory>` where ``
+- `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lwi23/cs15lwi23abc`, where the `abc` is one of the other group members' username
+- `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`
+- `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
 ![image](Figure5.png)
 
