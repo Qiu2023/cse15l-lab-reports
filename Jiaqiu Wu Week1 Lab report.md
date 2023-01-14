@@ -21,5 +21,6 @@ If you successfully log in, you can see the whole interaction like this:
 STEP 3: Trying Some Commands\
 Congratulations! Your terminal is now remotely connected to a computer in the CSE basement. You can try to run some commands below, and these commands will also run on that computer.
 - `cd ~`
+- `cd`
 ![image](Figure5.png)
 
