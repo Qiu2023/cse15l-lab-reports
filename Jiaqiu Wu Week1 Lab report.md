@@ -6,8 +6,8 @@ STEP 1:
 
 STEP 2:
 
-![image](Figure 2.rng)
+![image](Figure2.png)
 
 STEP 3:
 
-![image](Figure 3.rng)
+![image](Figure3.png)
