@@ -45,6 +45,7 @@ class StringServer {
 ```
 
 The first screenshot of using `/add-message?s=Hello`:
+
 ![Image](fig5.png)
 
 - The handleRequest() method is called.
@@ -54,6 +55,7 @@ and the value of relevent field of the class is result: "".
 and result:"Hello\n".
 
 Thd second screenshot of using `/add-message?s=How are you`:
+
 ![Image](fig6.png)
 
 - The handleRequest() method is called.
