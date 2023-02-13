@@ -82,7 +82,7 @@ I choose the bugs from `static int[] reversed` method in ArrayExamples.java.
     assertArrayEquals(new int[]{0, 0, 0}, ArrayExamples.reversed(input1));
   ```
   
-- The symptom after running the two JUnit tests above in VScode:\
+- The symptom after running the two JUnit tests above in VScode:
   
   For the failure-inducing input:
   
