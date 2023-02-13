@@ -14,7 +14,7 @@ and the value of relevent field of the class is result: "".
 - Changed values of relevant fields of the class are url.getPath():/add-message, parameters:["s", "Hello"],
 and result:"Hello\n".\
 
-### Part3
+### Part2
 I choose the bugs from `static int[] reversed` method in Array Methods.
 - A failure-inducing input and its JUnit test:\
   `int[] input1 = {1, 2, 3};
@@ -34,6 +34,11 @@ I choose the bugs from `static int[] reversed` method in Array Methods.
   ![Image](fig9.png)
   After:
   ![Image](fig10.png)
+`arr` is the parameter to be reversed, so we should return `newArray` which is the reversed copy of `arr`.\
+And in the for loop, `arr` should give its values to `newArray` in inverse order 
+instead of `new Array` giving to `arr`.\ Thus, it should be written as `newArray[arr.length - i - 1]=arr[i] ;`.\
 
-  
-    
+### Part3
+I learned how to process different URIs entered by users in the 
+handleReuqust method to form different response results.\ 
+The string has been appended to retain the user input and form the result.
