@@ -7,7 +7,7 @@ I will find four different command-line options to use the "find" commands.
 
 Example 1:
 
-![Image](fig11.png)
+`find written_2/non-fiction/OUP/Berk -name "*.txt"`
 
 Find all files with ".txt" suffix in "written_2/non-fiction/OUP/Berk" folder.
 
