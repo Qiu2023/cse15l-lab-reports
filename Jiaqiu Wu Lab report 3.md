@@ -39,10 +39,14 @@ Example 1:
 
 Find all files created within 40 minutes in "written_2" folder.
 
+Source:https://sysaix.com/43-practical-examples-of-linux-find-command
+
 Example 2:
 ![image](fig16.png)
 
 Find all files created within 5 minutes in "written_2" folder.
+
+Source:https://sysaix.com/43-practical-examples-of-linux-find-command
 
 ### find -amin:
 Example 1:
@@ -50,7 +54,11 @@ Example 1:
 
 Find all files accessed within 40 minutes in "written_2" folder.
 
+Source:https://geekflare.com/linux-find-commands/
+
 Exmaple 2:
 ![image](fig18.png)
 
 Find all files accessed within 5 minutes in "written_2" folder.
+
+Source:https://geekflare.com/linux-find-commands/
