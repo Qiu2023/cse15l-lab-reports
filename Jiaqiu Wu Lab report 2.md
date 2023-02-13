@@ -12,7 +12,7 @@ Thd second screenshot of using `/add-messages`:
 - The relevant argument to this handleRequest() method is url: "http://localhost:4000/add-message?s=Hello",
 and the value of relevent field of the class is result: "".
 - Changed values of relevant fields of the class are url.getPath():/add-message, parameters:["s", "Hello"],
-and result:"Hello\n".\
+and result:"Hello\n".
 
 ### Part2
 I choose the bugs from `static int[] reversed` method in Array Methods.
@@ -34,11 +34,11 @@ I choose the bugs from `static int[] reversed` method in Array Methods.
   ![Image](fig9.png)
   After:
   ![Image](fig10.png)
-`arr` is the parameter to be reversed, so we should return `newArray` which is the reversed copy of `arr`.\
+`arr` is the parameter to be reversed, so we should return `newArray` which is the reversed copy of `arr`.
 And in the for loop, `arr` should give its values to `newArray` in inverse order 
-instead of `new Array` giving to `arr`.\ Thus, it should be written as `newArray[arr.length - i - 1]=arr[i] ;`.\
+instead of `new Array` giving to `arr`. Thus, it should be written as `newArray[arr.length - i - 1]=arr[i] ;`.
 
 ### Part3
 I learned how to process different URIs entered by users in the 
-handleReuqust method to form different response results.\ 
+handleReuqust method to form different response results.
 The string has been appended to retain the user input and form the result.
