@@ -44,6 +44,7 @@ class StringServer {
 }
 ```
 
+
 The first screenshot of using `/add-message?s=Hello`:
 
 ![Image](fig5.png)
@@ -53,6 +54,7 @@ The first screenshot of using `/add-message?s=Hello`:
 and the value of relevent field of the class is result: "".
 - Changed values of relevant fields of the class are url.getPath():/add-message, parameters:["s","Hello"],
 and result:"Hello\n".
+
 
 Thd second screenshot of using `/add-message?s=How are you`:
 
