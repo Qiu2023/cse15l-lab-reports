@@ -91,7 +91,7 @@ I choose the bugs from `static int[] reversed` method in ArrayExamples.java.
   
   ![Image](fig8.png)
   
-- Bug fix:\
+- Bug fix:
   
   Before:
   ```
