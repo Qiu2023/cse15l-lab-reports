@@ -15,11 +15,11 @@ and result:"Hello\n".\
 
 ### Part3
 I choose the bugs from `static int[] reversed` method in Array Methods.
-- A failure-inducing input and its JUnit test:
+- A failure-inducing input and its JUnit test:\
   `int[] input1 = {1, 2, 3};
    assertArrayEquals(new int[]{3, 2, 1}, 
    ArrayExamples.reversed(input1));`
-- A input that doesn’t induce a failure and its JUnit test
+- A input that doesn’t induce a failure and its JUnit test\
   `int[] input1 = {0, 0, 0};
    assertArrayEquals(new int[]{0, 0, 0},
    ArrayExamples.reversed(input1));`
@@ -27,6 +27,12 @@ I choose the bugs from `static int[] reversed` method in Array Methods.
   For the failure-inducing input:
   ![Image](fig7.png)
   For the input that doesn’t induce a failure:
-  ![Image]()
+  ![Image](fig8.png)
+- Bug fix:\
+  Before:
+  ![Image](fig9.png)
+  After:
+  ![Image](fig10.png)
+
   
     
