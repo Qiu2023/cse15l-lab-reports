@@ -41,4 +41,5 @@ instead of `new Array` giving to `arr`. Thus, it should be written as `newArray[
 ### Part3
 I learned how to process different URIs entered by users in the 
 handleReuqust method to form different response results.
-The string has been appended to retain the user input and form the result.
+For the web server in this lab report, the string has been appended to retain the user input and form the result.
+I also learned how to use Junit for unit testing and modify the source code according to the test results.
