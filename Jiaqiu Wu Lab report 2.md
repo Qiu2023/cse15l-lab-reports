@@ -3,11 +3,11 @@
 
 ### Part1
 The code for my StringServer.java is below:
-![Image](fig4.png)\
+![Image](fig4.png)
 The first screenshot of using `/add-messages`:
-![Image](fig5.png)\
+![Image](fig5.png)
 Thd second screenshot of using `/add-messages`:
-![Image](fig6.png)\
+![Image](fig6.png)
 - The handleRequest() method is called.
 - The relevant argument to this handleRequest() method is url: "http://localhost:4000/add-message?s=Hello",
 and the value of relevent field of the class is result: "".
@@ -26,14 +26,14 @@ I choose the bugs from `static int[] reversed` method in Array Methods.
    ArrayExamples.reversed(input1));`
 - The symptom after running the two JUnit tests above in VScode:\
   For the failure-inducing input:
-  ![Image](fig7.png)\
+  ![Image](fig7.png)
   For the input that doesn’t induce a failure:
-  ![Image](fig8.png)\
+  ![Image](fig8.png)
 - Bug fix:\
   Before:
-  ![Image](fig9.png)\
+  ![Image](fig9.png)
   After:
-  ![Image](fig10.png)\
+  ![Image](fig10.png)
 
   
     
