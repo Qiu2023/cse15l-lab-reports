@@ -9,14 +9,14 @@ Example 1:
 
 Find all files with ".txt" suffix in "written_2/non-fiction/OUP/Berk" folder.
 
-[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)
+Source:https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/
 
 Example 2:
 ![Image](fig12.png)
 
 Find all files with the file name "China-History.txt" in the "written_2" folder.
 
-[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)
+Source:https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/
 
 ### find -type:
 Example 1:
@@ -24,14 +24,14 @@ Example 1:
 
 Find all files in "written_2/non-fiction/OUP/Abernathy" folder whose file type is normal file.
 
-[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)
+Source:https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/
 
 Example 2:
 ![image](fig14.png)
 
 Find all the subfolds in "written_2" folder.
 
-[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)
+Source:https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/
 
 ### find -cmin:
 Example 1:
