@@ -110,7 +110,7 @@ written_2/travel_guides/berlitz1
 written_2/travel_guides/berlitz1/HandRHawaii.txt
 ```
 
-Find all files accessed within 40 minutes in "written_2" folder.
+Find all files accessed within 30 minutes in "written_2" folder.
 
 Source:https://geekflare.com/linux-find-commands/
 
