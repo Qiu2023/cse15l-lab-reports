@@ -4,7 +4,7 @@
 ### STEP 1: Installing VScode
 Download and install VScode for Macs or Windows on your computer.\
 When installation completes, open VScode, and you will see a window like this:
-![Image](lab report1-Fig1.png)
+![Image](fig1.png)
 
 ### STEP 2: Remotely Connecting
 Use the Terminal → New Terminal menu option to open a terminal in VScode.\
@@ -16,7 +16,7 @@ RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? `\
 Type `yes` and press **enter**. Then type your own password of your course-specific account.\
 If you successfully log in, you can see the whole interaction like this:
-![Image](lab report1-Fig2.png)
+![Image](fig2.png)
 
 ### STEP 3: Trying Some Commands
 Congratulations! Your terminal is now remotely connected to a computer in the CSE basement. You can try to run some commands below, and these commands will also run on that computer.
@@ -29,5 +29,5 @@ Congratulations! Your terminal is now remotely connected to a computer in the CS
 - `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`
 - `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`\
 After running all the commands above, you will see the whole interaction like this:
-![Image](labreport1-Fig3.png)
+![Image](fig3.png)
 
