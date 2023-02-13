@@ -70,19 +70,20 @@ and result:"Hello\nHow are you\n".
 ### Part2
 
 I choose the bugs from `static int[] reversed` method in ArrayExamples.java.
-- A failure-inducing input and its JUnit test:\
+- A failure-inducing input and its JUnit test:
   ```
   int[] input1 = {1, 2, 3};
     assertArrayEquals(new int[]{3, 2, 1}, ArrayExamples.reversed(input1));
   ```
   
-- A input that doesn’t induce a failure and its JUnit test\
+- A input that doesn’t induce a failure and its JUnit test:
   ```
   int[] input1 = {0, 0, 0};
     assertArrayEquals(new int[]{0, 0, 0}, ArrayExamples.reversed(input1));
   ```
   
 - The symptom after running the two JUnit tests above in VScode:\
+  
   For the failure-inducing input:
   
   ![Image](fig7.png)
