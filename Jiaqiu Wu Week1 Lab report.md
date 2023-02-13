@@ -4,7 +4,7 @@
 ### STEP 1: Installing VScode
 Download and install VScode for Macs or Windows on your computer.\
 When installation completes, open VScode, and you will see a window like this:
-![image](lab report1-Fig1.png)
+![image](lab report 1-Fig1.png)
 
 ### STEP 2: Remotely Connecting
 Use the Terminal → New Terminal menu option to open a terminal in VScode.\
