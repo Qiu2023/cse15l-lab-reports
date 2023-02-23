@@ -5,7 +5,8 @@ I will find four different command-line options to use the "find" commands.
 
 ### find -name:
 
-I think it's useful because `find -name` helps me to find all the files with the pattern I want in a specific folder. For instance, if I want to count the number of files with suffix ".txt" in some folder, I can use this command and redirect the output to another file, then use `wc` command on it.
+I think it's useful because `find -name` helps me to find all the files with the pattern I want in a specific folder.\
+For instance, if I want to count the number of files with suffix ".txt" in some folder, I can use this command and redirect the output to another file, then use `wc` command on it.
 
 Example 1:
 
