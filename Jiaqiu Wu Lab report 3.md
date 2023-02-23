@@ -16,7 +16,7 @@ written_2/non-fiction/OUP/Berk/ch7.txt
 ```
 
 Find all files with ".txt" suffix in "written_2/non-fiction/OUP/Berk" folder.\
-I think it's useful because 
+I think it's useful because it helps me to find all the files with the pattern I want in a specific folder.
 
 Source:[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
 
