@@ -81,7 +81,7 @@ Find all the subfolders in "written_2" folder.
 Source:[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
 
 
-### find -cmin:
+### find -mmin:
 
 I think it's useful because `find -cmin` shows me all the files modified in a specific folder in last n(n>=0) minutes. For example, if I modified several files in last 1 hour and I don't remember where they are. I can use this command to find them by setting n = 60, which will reveal the paths to all those files.
 
