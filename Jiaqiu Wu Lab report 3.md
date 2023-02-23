@@ -17,9 +17,9 @@ written_2/non-fiction/OUP/Berk/CH4.txt
 written_2/non-fiction/OUP/Berk/ch7.txt
 ```
 
-Find all files with ".txt" suffix in "written_2/non-fiction/OUP/Berk" folder.\
+Find all files with ".txt" suffix in "written_2/non-fiction/OUP/Berk" folder.
 
-Source:[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
+Source:[Link to `find -name` command](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
 
 Example 2:
 
@@ -29,9 +29,8 @@ written_2/travel_guides/berlitz2/China-History.txt
 ```
 
 Find all files with the file name "China-History.txt" in the "written_2" folder.
-I think it's useful 
 
-Source:[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
+Source:[Link to `find -name` command](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
 
 
 ### find -type:
@@ -56,7 +55,7 @@ written_2/non-fiction/OUP/Abernathy/ch14.txt
 
 Find all files in "written_2/non-fiction/OUP/Abernathy" folder whose file type is normal file.
 
-Source:[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
+Source:[Link to `find -type f` command](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
 
 Example 2:
 
@@ -78,7 +77,7 @@ written_2/travel_guides/berlitz2
 
 Find all the subfolders in "written_2" folder.
 
-Source:[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
+Source:[Link to `find -type d` command](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
 
 
 ### find -mmin:
@@ -95,7 +94,7 @@ written_2/travel_guides/berlitz2/California-History.txt
 
 Find all files modified within the last 40 minutes in "written_2" folder.
 
-Source:[Link](https://sysaix.com/43-practical-examples-of-linux-find-command)
+Source:[Link to `find -mmin` command](https://sysaix.com/43-practical-examples-of-linux-find-command)
 
 Example 2:
 
@@ -105,12 +104,12 @@ find written_2 -mmin -5
 
 Find all files modified within the last 5 minutes in "written_2" folder.
 
-Source:[Link](https://sysaix.com/43-practical-examples-of-linux-find-command)
+Source:[Link to `find -mmin` command](https://sysaix.com/43-practical-examples-of-linux-find-command)
 
 
 ### find -amin:
 
-I think it's useful because `find -amin` helps me to find all the files I accessed within the last n(n>=0) minutes. For example, if I accessed several files in last 1 hour and I don't remember where they are. I can use this command to find them by setting n = 60, and the command will show me the paths to all those files in the output too.
+I think it's useful because `find -amin` helps me to find all the files I accessed within the last n(n>=0) minutes. For example, if I accessed several files in last 1 hour and I don't remember where they are. I can use this command to find them by setting n = 60.
 
 Example 1:
 
@@ -122,7 +121,7 @@ written_2/travel_guides/berlitz1/HandRHawaii.txt
 
 Find all files accessed within the last 30 minutes in "written_2" folder.
 
-Source:[Link](https://geekflare.com/linux-find-commands)
+Source:[Link to `find -amin` command](https://geekflare.com/linux-find-commands)
 
 Exmaple 2:
 
@@ -132,4 +131,4 @@ find written_2 -amin -5
 
 Find all files accessed within the last 5 minutes in "written_2" folder.
 
-Source:[Link](https://geekflare.com/linux-find-commands)
+Source:[Link to `find -amin` command](https://geekflare.com/linux-find-commands)
