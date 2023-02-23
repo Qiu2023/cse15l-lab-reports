@@ -83,7 +83,7 @@ Source:[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-com
 
 ### find -mmin:
 
-I think it's useful because `find -mmin` shows me all the files modified in a specific folder in last n(n>=0) minutes. For example, if I modified several files in last 1 hour and I don't remember where they are. I can use this command to find them by setting n = 60, which will reveal the paths to all those files.
+I think it's useful because `find -mmin` shows me all the files modified in a specific folder within last n(n>=0) minutes. For example, if I modified several files in last 1 hour and I don't remember where they are. I can use this command to find them by setting n = 60, which will reveal the paths to all those files.
 
 Example 1:
 
@@ -93,7 +93,7 @@ written_2/travel_guides/berlitz2
 written_2/travel_guides/berlitz2/California-History.txt
 ```
 
-Find all files modified in last 40 minutes in "written_2" folder.
+Find all files modified within last 40 minutes in "written_2" folder.
 
 Source:[Link](https://sysaix.com/43-practical-examples-of-linux-find-command)
 
@@ -103,14 +103,14 @@ Example 2:
 find written_2 -mmin -5
 ```
 
-Find all files modified in last 5 minutes in "written_2" folder.
+Find all files modified within last 5 minutes in "written_2" folder.
 
 Source:[Link](https://sysaix.com/43-practical-examples-of-linux-find-command)
 
 
 ### find -amin:
 
-I think it's useful because `find -amin -n` shows me all the files I accessed in last n(n>=0) minutes. For example, if I accessed several files in last 1 hour and I don't remember where they are. I can use this command to find them by setting n = 60, which will reveal the paths to all those files.
+I think it's useful because `find -amin -n` shows me all the files I accessed within last n(n>=0) minutes. For example, if I accessed several files in last 1 hour and I don't remember where they are. I can use this command to find them by setting n = 60, which will reveal the paths to all those files.
 
 Example 1:
 
@@ -120,7 +120,7 @@ written_2/travel_guides/berlitz1
 written_2/travel_guides/berlitz1/HandRHawaii.txt
 ```
 
-Find all files accessed in last 30 minutes in "written_2" folder.
+Find all files accessed within last 30 minutes in "written_2" folder.
 
 Source:[Link](https://geekflare.com/linux-find-commands)
 
@@ -130,6 +130,6 @@ Exmaple 2:
 find written_2 -amin -5
 ```
 
-Find all files accessed in last 5 minutes in "written_2" folder.
+Find all files accessed within last 5 minutes in "written_2" folder.
 
 Source:[Link](https://geekflare.com/linux-find-commands)
