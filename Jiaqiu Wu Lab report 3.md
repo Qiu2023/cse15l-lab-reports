@@ -83,27 +83,27 @@ Source:[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-com
 
 ### find -cmin:
 
-I think it's useful because `find -cmin` shows me all the files created in a specific folder in last n(n>=0) minutes. For example, if I created several files within an hour and I don't remember where they are. I can use this command to find them by setting n = 60, which will reveal the paths to all those files.
+I think it's useful because `find -cmin` shows me all the files modified in a specific folder in last n(n>=0) minutes. For example, if I modified several files within an hour and I don't remember where they are. I can use this command to find them by setting n = 60, which will reveal the paths to all those files.
 
 Example 1:
 
 ```
-find written_2 -cmin -40
-written_2/travel_guides/berlitz1
-written_2/travel_guides/berlitz1/H
+find written_2 -mmin -40
+written_2/travel_guides/berlitz2
+written_2/travel_guides/berlitz2/California-History.txt
 ```
 
-Find all files created in last 40 minutes in "written_2" folder.
+Find all files modified in last 40 minutes in "written_2" folder.
 
 Source:[Link](https://sysaix.com/43-practical-examples-of-linux-find-command)
 
 Example 2:
 
 ```
-find written_2 -cmin -5
+find written_2 -mmin -5
 ```
 
-Find all files created in last 5 minutes in "written_2" folder.
+Find all files modified in last 5 minutes in "written_2" folder.
 
 Source:[Link](https://sysaix.com/43-practical-examples-of-linux-find-command)
 
