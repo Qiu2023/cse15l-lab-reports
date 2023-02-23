@@ -16,7 +16,7 @@ written_2/non-fiction/OUP/Berk/ch7.txt
 ```
 
 Find all files with ".txt" suffix in "written_2/non-fiction/OUP/Berk" folder.\
-uidwchdo
+I think it's useful because 
 
 Source:[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
 
