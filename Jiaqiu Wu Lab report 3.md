@@ -5,7 +5,7 @@ I will find four different command-line options to use the "find" commands.
 
 ### find -name:
 
-I think it's useful because `find -name` helps me to find all the files with the pattern I want in a specific folder.\
+I think it's useful because `find -name` helps me to find all the files with the pattern I want in a specific folder.
 For instance, if I want to count the number of files with suffix ".txt" in some folder, I can use this command and redirect the output to another file, then use `wc` command on it.
 
 Example 1:
@@ -83,7 +83,7 @@ Source:[Link to `find -type d` command](https://linuxize.com/post/how-to-find-fi
 
 ### find -mmin:
 
-I think it's useful because `find -mmin` helps me to find all the files modified in a specific folder within the last |n| (n<=0) minutes.\
+I think it's useful because `find -mmin` helps me to find all the files modified in a specific folder within the last |n| (n<=0) minutes.
 For example, if I modified several files in last 1 hour and I don't remember where they are. I can use this command to find them by setting n = -60.
 
 Example 1:
@@ -111,7 +111,7 @@ Source:[Link to `find -mmin` command](https://sysaix.com/43-practical-examples-o
 
 ### find -amin:
 
-I think it's useful because `find -amin` helps me to find all the files I accessed within the last |n| (n<=0) minutes.\
+I think it's useful because `find -amin` helps me to find all the files I accessed within the last |n| (n<=0) minutes.
 For example, if I accessed several files in last 1 hour and I don't remember where they are. I can use this command to find them by setting n = -60.
 
 Example 1:
