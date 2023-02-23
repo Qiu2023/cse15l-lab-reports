@@ -83,7 +83,7 @@ Source:[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-com
 
 ### find -cmin:
 
-I think it's useful because `find -cmin` shows me all the files modified in a specific folder in last n(n>=0) minutes. For example, if I modified several files within an hour and I don't remember where they are. I can use this command to find them by setting n = 60, which will reveal the paths to all those files.
+I think it's useful because `find -cmin` shows me all the files modified in a specific folder in last n(n>=0) minutes. For example, if I modified several files in last 1 hour and I don't remember where they are. I can use this command to find them by setting n = 60, which will reveal the paths to all those files.
 
 Example 1:
 
@@ -110,7 +110,7 @@ Source:[Link](https://sysaix.com/43-practical-examples-of-linux-find-command)
 
 ### find -amin:
 
-I think it's useful because `find -amin -n` shows me all the files I accessed in last n(n>=0) minutes. For example, if I accessed several files within an hour and I don't remember where they are. I can use this command to find them by setting n = 60, which will reveal the paths to all those files.
+I think it's useful because `find -amin -n` shows me all the files I accessed in last n(n>=0) minutes. For example, if I accessed several files in last 1 hour and I don't remember where they are. I can use this command to find them by setting n = 60, which will reveal the paths to all those files.
 
 Example 1:
 
