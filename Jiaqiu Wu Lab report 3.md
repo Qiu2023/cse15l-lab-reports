@@ -35,7 +35,7 @@ Source:[Link to `find -name` command](https://linuxize.com/post/how-to-find-file
 
 ### find -type:
 
-I think it's useful because `find -type f` helps me to find all the files in a specific folder. For instance, if I would like to see the filenames of all the files in some folder, I could use this command, and it will show you the relative paths to those files as well.
+I think it's useful because `find -type f` helps me to find all the files in a specific folder. For instance, if I would like to see the filenames of all the files in some folder, I could use this command, and it will show you the relative paths to those files as well.\
 And `find -type d` helps me to find all the subfolders in a specific folder. I could use this command to see the names of those subfolders, and the command will show me the paths to those folders too.
 
 Example 1:
