@@ -5,6 +5,8 @@ I will find four different command-line options to use the "find" commands.
 
 ### find -name:
 
+I think it's useful because it helps me to find all the files with the pattern I want in a specific folder.
+
 Example 1:
 
 ```
@@ -16,7 +18,6 @@ written_2/non-fiction/OUP/Berk/ch7.txt
 ```
 
 Find all files with ".txt" suffix in "written_2/non-fiction/OUP/Berk" folder.\
-I think it's useful because it helps me to find all the files with the pattern I want in a specific folder.
 
 Source:[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
 
@@ -34,6 +35,8 @@ Source:[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-com
 
 
 ### find -type:
+
+I think it's useful because it helps me find all the files in a specific folder.
 
 Example 1:
 
