@@ -28,6 +28,7 @@ written_2/travel_guides/berlitz2/China-History.txt
 ```
 
 Find all files with the file name "China-History.txt" in the "written_2" folder.
+I think it's useful 
 
 Source:[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
 
