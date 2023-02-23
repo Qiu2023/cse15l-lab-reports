@@ -5,7 +5,7 @@ I will find four different command-line options to use the "find" commands.
 
 ### find -name:
 
-I think it's useful because it helps me to find all the files with the pattern I want in a specific folder. For instance, if I want to count the number of files with suffix ".txt" in some folder, I can just use this command and redirect the output to another file, then use `wc` command on it.
+I think it's useful because `find -name` helps me to find all the files with the pattern I want in a specific folder. For instance, if I want to count the number of files with suffix ".txt" in some folder, I can use this command and redirect the output to another file, then use `wc` command on it.
 
 Example 1:
 
@@ -36,7 +36,8 @@ Source:[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-com
 
 ### find -type:
 
-I think it's useful because it helps me find all the files in a specific folder.
+I think it's useful because `find -type f` helps me to find all the files in a specific folder. For instance, if I would like to see the filenames of all the files in some folder, I could use this command, and it will show you the relative paths to those files as well.
+And `find -type d` helps me to find all the subfolders in a specific folder. I could use this command to see the names of those subfolders, and the command will show me the paths to those folders too.
 
 Example 1:
 
@@ -75,12 +76,14 @@ written_2/travel_guides/berlitz1
 written_2/travel_guides/berlitz2
 ```
 
-Find all the subfolds in "written_2" folder.
+Find all the subfolders in "written_2" folder.
 
 Source:[Link](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
 
 
 ### find -cmin:
+
+I think it's useful because `find -cmin` shows me all the files created in a specific folder within  minutes. For example, if I created several files within an hour and I don't remember where they are. I can use this command to find them by setting n = 60, which will reveal the paths to all those files.
 
 Example 1:
 
@@ -106,6 +109,8 @@ Source:[Link](https://sysaix.com/43-practical-examples-of-linux-find-command)
 
 
 ### find -amin:
+
+I think it's useful because `find -amin -n` shows me all the files I accessed within n minutes. For example, if I created several files within an hour and I don't remember where they are. I can use this command to find them by setting n = 60, which will reveal the paths to all those files.
 
 Example 1:
 
