@@ -55,6 +55,6 @@ Last, the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.r
 Keys pressed: `git status<enter>`, `git add L<tab><enter>`, `git commit -m "Updated"<enter>`, `git push origin main<enter>`
 
 First, I typed and ran `git status` to check the state of ListExamples.java. \
-Next, I typed and ran `git add L` and then press `<tab>`to add the change in the working directory to the staging area. \
-Then, I typed and ran `git commit -m "Updated"` to commit the change to the local repository lab7. \
-Finally, I typed and ran `git push origin main` to push the resulting change to my Github account with "Updated" as the commit message.
+Next, I typed and ran `git add L` and then press `<tab>`to add the change in ListExamples.java in the working directory lab7 to the staging area. \
+Then, I typed and ran `git commit -m "Updated"` to commit the change to the local repository lab7 with "Updated" as the commit message. \
+Finally, I typed and ran `git push origin main` to push the resulting change to my Github account.
