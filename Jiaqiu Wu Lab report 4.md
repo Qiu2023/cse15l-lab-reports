@@ -52,4 +52,4 @@ Last, the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.r
 
 ![image](fig24.png)
 
-Keys pressed: 
+Keys pressed: `git status`, `git add L<tab>`, `git commit -m "Updated"`, `git push origin main`
