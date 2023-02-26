@@ -5,7 +5,7 @@
 
 ![image](fig19.png) 
 
-Keys pressed: `ssh cs15lwi23aes@ieng6.ucsd.edu``<enter>`
+Keys pressed: `ssh cs15lwi23aes@ieng6.ucsd.edu<enter>`
   
 I typed and ran `ssh cs15lwi23aes@ieng6.ucsd.edu` command to log into my ieng6 account.
 
@@ -13,7 +13,7 @@ I typed and ran `ssh cs15lwi23aes@ieng6.ucsd.edu` command to log into my ieng6 a
 
 ![image](fig20.png)
 
-Keys pressed: `git clone git@github.com:Qiu2023/lab7.git``<enter>`
+Keys pressed: `git clone git@github.com:Qiu2023/lab7.git<enter>`
 
 I typed and ran `git clone git@github.com:Qiu2023/lab7.git` command to clone my fork of the repository lab7 from my Github account.
 
@@ -21,7 +21,7 @@ I typed and ran `git clone git@github.com:Qiu2023/lab7.git` command to clone my 
 
 ![image](fig21.png)
 
-Keys pressed: `cd l``<tab>``<enter>`, `<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<enter>`, `<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<enter>`
+Keys pressed: `cd l<tab><enter>`, `<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>`, `<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>`
 
 First, I typed `cd l` command meaning to switch current working directory to lab7, and then pressed `<tab>` to autofill the rest of the name "lab7" up. \
 Second, the`javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`command was 15 up in the search history, so I used up arrow to access it. \
@@ -29,4 +29,4 @@ Last, the`java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.ru
 
 ### Step 7:
 
-Keys pressed: `nano ListExamples.java``<enter>`, `<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<right>``<right>``<right>``<right>``<right>``<right>``<right>``<right>``<right>``<right>``<right>``<right>``<delet>``1`
+Keys pressed: `nano ListExamples.java<enter>`, `<down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><right><right><right><right><right><right><right><right><right><right><right><right><delete>1`
