@@ -29,4 +29,4 @@ Last, the`java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.ru
 
 ### Step 7:
 
-Keys pressed: `nano ListExamples.java<enter>`, `<down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><right><right><right><right><right><right><right><right><right><right><right><right><delete>1`
+Keys pressed: `nano ListExamples.java<enter>`, `<down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><right><right><right><right><right><right><right><right><right><right><right><right><delete>1<control>o<enter><control>x`, 
