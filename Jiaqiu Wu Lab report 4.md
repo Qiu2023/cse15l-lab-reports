@@ -50,6 +50,6 @@ Last, the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.r
 
 ### Step 9:
 
-![image]()
+![image](fig24.png)
 
 Keys pressed: 
