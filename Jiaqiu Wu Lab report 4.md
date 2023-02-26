@@ -5,6 +5,6 @@
 
 ![image](fig19.png) 
 
-Keys pressed: `ssh cs15lwi23aes@ieng6.ucsd.edu`<enter>
+Keys pressed: `ssh cs15lwi23aes@ieng6.ucsd.edu` <enter>
   
 I use `ssh cs15lwi23aes@ieng6.ucsd.edu` command to log into my ieng6 account.
