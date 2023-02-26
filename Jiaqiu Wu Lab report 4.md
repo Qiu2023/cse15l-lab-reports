@@ -23,3 +23,4 @@ I used the `git clone git@github.com:Qiu2023/lab7.git` command to clone my fork 
 
 Keys pressed: `cd l``<tab>``<enter>`, `<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<enter>`, `<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<enter>`
 
+First, I used `cd l`
