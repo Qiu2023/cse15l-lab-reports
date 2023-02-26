@@ -33,7 +33,7 @@ Last, the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.r
 
 Keys pressed: `nano ListExamples.java<enter>`, `<down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><right><right><right><right><right><right><right><right><right><right><right><right><delete>1<control>o<enter>`
 
-I firstly typed and ran `nano ListExamples.java<enter>` command to open the nano editor to edit the file ListExamples.java. \
+I firstly typed and ran `nano ListExamples.java` command to open the nano editor to edit the file ListExamples.java. \
 Then, since the bug is at line 42, column 12, so I used down arrow and right arrow to reach it. \
 Next, I pressed `<delete>` and then typed `1` to fix the bug. \
 Finally, I pressed and held `<control>`, typed `o` and then pressed `<enter>` to save the file as its original name "ListExamples.java".
@@ -52,4 +52,9 @@ Last, the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.r
 
 ![image](fig24.png)
 
-Keys pressed: `git status`, `git add L<tab>`, `git commit -m "Updated"`, `git push origin main`
+Keys pressed: `git status<enter>`, `git add L<tab><enter>`, `git commit -m "Updated"<enter>`, `git push origin main<enter>`
+
+First, I typed and ran `git status` to check the state of ListExamples.java. \
+Next, I typed and ran `git add L` and then press `<tab>`to add the change in the working directory to the staging area. \
+Then, I typed and ran `git commit -m "Updated"` to commit the change to the local repository lab7. \
+Finally, I typed and ran `git push origin main` to push the resulting change to my Github account with "Updated" as the commit message.
