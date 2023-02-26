@@ -24,4 +24,7 @@ I typed and ran `git clone git@github.com:Qiu2023/lab7.git` command to clone my 
 Keys pressed: `cd l``<tab>``<enter>`, `<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<enter>`, `<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<enter>`
 
 First, I typed `cd l` command meaning to switch current working directory to lab7, and then pressed `<tab>` to autofill the rest of the name "lab7" up. \
-Second, the 
+Second, the`javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`command was 15 up in the search history, so I used up arrow to access it. \
+Last, the`java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples`command was 15 up in the history, so I accessed and ran it in the same way.
+
+### Step 7:
