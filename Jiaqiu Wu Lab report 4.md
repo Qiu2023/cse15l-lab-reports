@@ -45,6 +45,11 @@ Finally, I pressed and held `<control>`, typed `o` and then pressed `<enter>` to
 Keys pressed: `<control>x`, `<up><up><up><enter>`, `<up><up><up><enter>`
 
 First, I pressed and held `<control>` and typed `x` to exit the editor. \
-Then, the `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command was 3 up in the search history, so I used up arrow to access it.
-Last, the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples` command was 3 up in the history, so I accessed and ran it in the same way.
+Then, the `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command was 3 up in the search history, so I used up arrow to access it. \
+Last, the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples` command was 3 up in the history, so I accessed and ran it in the same way. We can see that both of the tests succeed.
 
+### Step 9:
+
+![image]()
+
+Keys pressed: 
