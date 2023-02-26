@@ -7,7 +7,7 @@
 
 Keys pressed: `ssh cs15lwi23aes@ieng6.ucsd.edu``<enter>`
   
-I used the `ssh cs15lwi23aes@ieng6.ucsd.edu` command to log into my ieng6 account.
+I typed and ran `ssh cs15lwi23aes@ieng6.ucsd.edu` command to log into my ieng6 account.
 
 ### Step 5:
 
@@ -15,7 +15,7 @@ I used the `ssh cs15lwi23aes@ieng6.ucsd.edu` command to log into my ieng6 accoun
 
 Keys pressed: `git clone git@github.com:Qiu2023/lab7.git``<enter>`
 
-I used the `git clone git@github.com:Qiu2023/lab7.git` command to clone my fork of the repository lab7 from my Github account.
+I typed and ran `git clone git@github.com:Qiu2023/lab7.git` command to clone my fork of the repository lab7 from my Github account.
 
 ### Step 6:
 
@@ -23,4 +23,5 @@ I used the `git clone git@github.com:Qiu2023/lab7.git` command to clone my fork 
 
 Keys pressed: `cd l``<tab>``<enter>`, `<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<enter>`, `<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<enter>`
 
-First, I used `cd l`
+First, I typed `cd l` command meaning to switch current working directory to lab7, and then pressed `<tab>` to autofill the rest of the name "lab7" up.\ 
+Second, the 
