@@ -28,3 +28,5 @@ Second, the`javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`co
 Last, the`java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples`command was 15 up in the history, so I accessed and ran it in the same way.
 
 ### Step 7:
+
+Keys pressed: `nano ListExamples.java``<enter>`, `<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<down>``<right>``<right>``<right>``<right>``<right>``<right>``<right>``<right>``<right>``<right>``<right>``<right>``<delet>``1`
