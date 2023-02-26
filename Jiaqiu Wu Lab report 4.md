@@ -5,6 +5,21 @@
 
 ![image](fig19.png) 
 
-Keys pressed: `ssh cs15lwi23aes@ieng6.ucsd.edu` <enter>
+Keys pressed: `ssh cs15lwi23aes@ieng6.ucsd.edu``<enter>`
   
-I use `ssh cs15lwi23aes@ieng6.ucsd.edu` command to log into my ieng6 account.
+I used the `ssh cs15lwi23aes@ieng6.ucsd.edu` command to log into my ieng6 account.
+
+### Step 5:
+
+![image](fig20.png)
+
+Keys pressed: `git clone git@github.com:Qiu2023/lab7.git``<enter>`
+
+I used the `git clone git@github.com:Qiu2023/lab7.git` command to clone my fork of the repository lab7 from my Github account.
+
+### Step 6:
+
+![image](fig21.png)
+
+Keys pressed: `cd l``<tab>``<enter>`, `<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<enter>`, `<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<up>``<enter>`
+
