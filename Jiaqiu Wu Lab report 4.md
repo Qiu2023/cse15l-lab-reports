@@ -38,6 +38,6 @@ Then, since the bug is at line 42, column 12, so I used down arrow and right arr
 
 ### Step 8:
 
-![image]()
+![image](fig23.png)
 
 Keys pressed: `<control>x`, `<up><up><up><enter>`, `<up><up><up><enter>`
