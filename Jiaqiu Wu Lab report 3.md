@@ -5,10 +5,20 @@ I will find four different command-line options to use the "find" commands.
 
 ### find -name:
 
-I think it's useful because `find -name` helps me to find all the files with the pattern I want in a specific folder.
-For instance, if I want to count the number of files with suffix ".txt" in some folder, I can use this command and redirect the output to another file, then use `wc` command on it.
+I think it's useful because it is the most common to find the required file by name in a folder.
 
 Example 1:
+
+```
+find written_2 -name "China-History.txt"
+written_2/travel_guides/berlitz2/China-History.txt
+```
+
+Find all files with the file name "China-History.txt" in the "written_2" folder.
+
+Source:[Link to `find -name` command](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
+
+Example 2:
 
 ```
 find written_2/non-fiction/OUP/Berk -name "*.txt" 
@@ -19,17 +29,6 @@ written_2/non-fiction/OUP/Berk/ch7.txt
 ```
 
 Find all files with ".txt" suffix in "written_2/non-fiction/OUP/Berk" folder.
-
-Source:[Link to `find -name` command](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
-
-Example 2:
-
-```
-find written_2 -name "China-History.txt"
-written_2/travel_guides/berlitz2/China-History.txt
-```
-
-Find all files with the file name "China-History.txt" in the "written_2" folder.
 
 Source:[Link to `find -name` command](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line)
 
