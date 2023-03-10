@@ -53,7 +53,7 @@ grep -c "America" WhatToLosAngeles.txt
 
 Count the number of times "America" appears in the file "WhatToLosAngeles.txt"
 
-Source:[Link to `grep -w` command](https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/)
+Source:[Link to `grep -c` command](https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/)
 
 
 ### grep -r:
@@ -90,7 +90,7 @@ grep -r "butterfly"
 
 Recursively search for "butterfly" though files from subdirectories, starting from the current directory "written_2".
 
-Source:[Link to `grep -w` command](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/)
+Source:[Link to `grep -r` command](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/)
 
 
 ### grep -l
