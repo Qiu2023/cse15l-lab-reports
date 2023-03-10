@@ -140,4 +140,4 @@ WhereToLosAngeles.txt
 
 Print the name of the files that contain "romance" in the current directory "berlitz1".
 
-Source:[Link to `grep -c` command](https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/)
+Source:[Link to `grep -l` command](https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/)
