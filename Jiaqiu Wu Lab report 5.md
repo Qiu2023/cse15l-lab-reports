@@ -95,6 +95,10 @@ Source:[Link to `grep -r` command](https://www.cyberciti.biz/faq/howto-use-grep-
 
 ### grep -l
 
+It is useful because we can use this command to find files that contain the provided matching pattern in their filenames.
+
 Example 1:
 
 Example 2:
+
+Source:[Link to `grep -c` command](https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/)
