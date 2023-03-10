@@ -40,6 +40,7 @@ Example 1:
 grep -c "China" HistoryHongKong.txt 
 19
 ```
+Count the number of times
 
 Example 2:
 
