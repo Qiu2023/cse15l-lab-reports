@@ -17,8 +17,6 @@ grep -w "History" HistoryHongKong.txt
 
 Find the exact matches of "History" in the file "HistoryHongKong.txt".
 
-Source:[Link to `grep -w` command](https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/)
-
 Example 2:
 
 ```
@@ -45,8 +43,6 @@ grep -c "China" HistoryHongKong.txt
 ```
 
 Count the number of times "China" appears in the file "HistoryHongKong.txt".
-
-Source:[Link to `grep -c` command](https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/)
 
 Example 2:
 
@@ -79,8 +75,6 @@ grep -r "Pyramid"
 ```
 
 Recursively search for "Pyramid" though files from subdirectories, starting from the current directory "berlitz1".
-
-Source:[Link to `grep -r` command](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/)
 
 Example 2:
 
@@ -133,8 +127,6 @@ WhereToMadrid.txt
 ```
 
 Print the name of the files that contain "Egypt" in the current directory "berlitz1".
-
-Source:[Link to `grep -l` command](https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/)
 
 Example 2:
 
