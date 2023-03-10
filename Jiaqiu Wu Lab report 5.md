@@ -36,7 +36,17 @@ I think it's useful because it can be used to count the number of times the matc
 
 Example 1:
 
+```
+grep -c "China" HistoryHongKong.txt 
+19
+```
+
 Example 2:
+
+```
+grep -c "America" WhatToLosAngeles.txt 
+2
+```
 
 Source:[Link to `grep -w` command](https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/)
 
