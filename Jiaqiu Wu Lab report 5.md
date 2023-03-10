@@ -95,10 +95,49 @@ Source:[Link to `grep -r` command](https://www.cyberciti.biz/faq/howto-use-grep-
 
 ### grep -l
 
-It is useful because we can use this command to find files that contain the provided matching pattern in their filenames.
+It is useful because we can use this command to find files that contain the provided matching pattern in the current direcoty. This command prints the name of the files where the pattern is found.
 
 Example 1:
 
+```
+grep -l "Egypt" *
+HistoryEgypt.txt
+HistoryFrance.txt
+HistoryGreek.txt
+HistoryHawaii.txt
+HistoryIsrael.txt
+HistoryIstanbul.txt
+HistoryJerusalem.txt
+IntroEgypt.txt
+IntroLasVegas.txt
+WhatToEgypt.txt
+WhereToDublin.txt
+WhereToEdinburgh.txt
+WhereToEgypt.txt
+WhereToFrance.txt
+WhereToGreek.txt
+WhereToIsrael.txt
+WhereToIstanbul.txt
+WhereToItaly.txt
+WhereToJapan.txt
+WhereToJerusalem.txt
+WhereToLosAngeles.txt
+WhereToMadeira.txt
+WhereToMadrid.txt
+```
+
+Print the name of the files that contain "Egypt" in the current directory "berlitz1".
+
 Example 2:
+
+```
+grep -l "romance" * 
+WhereToIndia.txt
+WhereToItaly.txt
+WhereToJerusalem.txt
+WhereToLosAngeles.txt
+```
+
+Print the name of the files that contain "romance" in the current directory "berlitz1".
 
 Source:[Link to `grep -c` command](https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/)
